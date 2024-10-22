@@ -65,18 +65,18 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+❶ || Creator = 𖥘⚡ Brendon-King ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || https://whatsapp.com/channel/0029VasSY6S6mYPRmf5daP1y
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/263780166288
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || Bot Repo = https://github.com/kingmalvn/RAVENS-MD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@MalvinKing_TECH 
+❻ || YouTube = https://www.youtube.com/@BrendonKing_TECH 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
-	 await Qr_Code_By_Malvin_King.sendMessage(Qr_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
+	 await Qr_Code_By_Brendon_King.sendMessage(Qr_Code_By_Brendon_King.user.id,{text: BRENDON_KING_TEXT},{quoted:session})
 
 
 
